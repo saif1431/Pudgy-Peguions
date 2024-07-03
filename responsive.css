@@ -1,0 +1,379 @@
+@media screen and (width > 300px) and (width < 768px) {
+  .line {
+    height: 8vh;
+  }
+  .lineh1 {
+    display: none;
+  }
+  .line h1 {
+    width: 100%;
+    font-size: 3.8vw;
+    text-align: center;
+  }
+  .logo img {
+    width: 15%;
+  }
+  .logo button {
+    padding: 2vw 4vw;
+    font-size: 3vw;
+  }
+  #header {
+    width: 100%;
+    height:40%;
+  }
+  .headerTitle h1 {
+    font-size: 30vw;
+    letter-spacing: 1px;
+    text-shadow: -1px 0 black, 0 0px black, 3px 0 black, 0 -3px black;
+    padding-top: 28vw;
+  }
+  .shopNowTitle h1, .shopNowTitle2 h1{
+    padding: 3vw;
+  }
+  .shopNowTitle p, .shopNowTitle2 p{
+    padding: 3vw;
+  }
+  .para {
+    width: 100%;
+    padding: 2vw;
+  }
+  .headerImg {
+    width: 100%;
+    height: 70%;
+  }
+  .para p {
+    
+    width: 100%;
+    font-size: 5vw;
+  }
+.img{
+  width: 100%;
+}
+  .img img {
+    width: 100%;
+   margin-top: 70vw;
+  }
+  .headerImg hr {
+    display: none;
+  }
+  .aboutPudgy {
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+  .aboutLeft {
+    width: 100%;
+  }
+  .aboutLeft h1 {
+    text-align: start;
+    font-size: 20vw;
+    text-shadow: -1px 0 black, 0 0px black, 3px 0 black, 0 -3px black;
+    color: #fff;
+    margin-left: 2vw;
+  }
+  .aboutright {
+    margin-top: 0;
+    width: 100%;
+  }
+  .aboutright p {
+    width: 100%;
+    font-size: 4.5vw;
+    padding: 7vw;
+  }
+  .shopNow {
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+  .shopNowdiv1 {
+    width: 100%;
+    border-right: 0;
+    border-bottom: 3px solid #000;
+  }
+  .shopNowdiv2 {
+    width: 100%;
+  }
+  .shopNowTitle {
+    margin-left: 1vw;
+  }
+  .shopNowTitle h1,
+  .shopNowTitle2 h1 {
+    text-align: start;
+    font-size: 20vw;
+    text-shadow: -1px 0 black, 0 0px black, 3px 0 black, 0 -3px black;
+  }
+  .shopNowTitle p,
+  .shopNowTitle2 p {
+    font-family: header;
+    font-size: 4.3vw;
+    margin-top: 2vw;
+  }
+  .btn {
+    height: 12.0509259259vw;
+    width: 12.0509259259vw;
+    padding: 1.5vw;
+  }
+  .btn-shadow {
+    height: 12.0509259259vw;
+    width: 12.0509259259vw;
+  }
+  .shopNowBtn {
+    padding: 3vw;
+    padding-top: 5vw;
+  }
+  .shopNowBtn h3 {
+    font-family: header;
+    font-size: 4vw;
+  }
+  hr {
+    display: noneb;
+  }
+
+  .lilPudgy h1 {
+    text-align: center;
+    font-size: 28vw;
+    text-shadow: -1px 0 black, 0 2px black, 4px 0 black, 0 -3px black;
+  }
+  .lilPudgy p {
+    width: 85%;
+    font-size: 4vw;
+  }
+  .lilPudgyImg img {
+    width: 90%;
+  }
+  .Cards {
+    flex-direction: column-reverse;
+  }
+  .card2 {
+    width: 100%;
+    padding: 2vw;
+  }
+  .card2 h3 {
+    text-align: center;
+    font-size: 10vw;
+    padding: 4vw;
+  }
+  .card2 h6 {
+    width: 80%;
+    font-size: 4vw;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .img4 {
+    padding: 8vw;
+  }
+  .img4 img {
+    width: 50%;
+  }
+  .btn2 button {
+    width: 90%;
+    padding: 1rem;
+    font-size: 5vw;
+  }
+
+  .card1 {
+    width: 100%;
+  }
+  .line1 {
+    width: 100%;
+    height: 7%;
+  }
+  .line1 h2 {
+    font-size: 4.6vw;
+  }
+  .line1text {
+    display: none;
+  }
+  .JoinNowCard1 {
+    width: 100%;
+    flex-direction: column;
+    gap: 2vw;
+  }
+  .joinNowcarddiv1 {
+    width: 100%;
+  }
+  .joinNowcarddiv2 {
+    width: 100%;
+  }
+  .pudgyMedia h1 {
+    font-size: 18vw;
+    padding: 3vw;
+    text-shadow: -1px 0 black, 0 2px black, 3px 0 black, 0 -3px black;
+  }
+  .joinNowcarddiv1 p,
+  .joinNowcarddiv2 p {
+    font-size: 4vw;
+    padding: 5vw;
+  }
+  .joinNowCardBtn h3 {
+    font-family: header;
+    font-size: 3.5vw;
+  }
+  .joinNowCardBtn {
+    padding-left: 4vw;
+  }
+  .JoinNowCard2 {
+    flex-direction: column;
+    width: 100%;
+  }
+  .JoinNowCard2div2 img {
+    width: 50%;
+    height: 50%;
+    rotate: 90deg;
+  }
+  .JoinNowCard2div1 {
+      width: 90%;
+      height: 100%;
+     }
+  .JoinNowCard2div2 {
+      width: 90%;
+      height: 100%;
+     }
+     .JoinNowCard2div1 h1{
+      font-size: 18vw;
+    padding: 3vw;
+    text-shadow: -1px 0 black, 0 2px black, 3px 0 black, 0 -3px black;
+  }
+  .JoinNowCard2div1 p{
+      font-size: 4vw;
+      padding: 5vw;
+  }
+  .JoinNowCard2Btn button {
+      width: 90%;
+      padding: 1rem;
+      font-size: 5vw;
+    }
+    .swiperSect1{
+      width: 100%;
+      height: 40%;
+    } 
+    .swiperSect1 img{
+      width: 100%;
+     }
+     .swiperSect1Img{
+      width: 40%;
+         }
+     .swiperSect1Title h1{
+      font-size: 18vw;
+    padding-top: 2vw;
+    text-shadow: -1px 0 black, 0 2px black, 3px 0 black, 0 -3px black;
+     }
+     .swiperSect2{
+      width: 80%;
+      height:100%;
+     }
+     .swiperSect2Img2Div img{
+      width: 40%;
+    }
+    .swiperSect2Img1 p{
+      font-size: 4vw;
+      padding: 1vw;
+    }
+    .swiperSect2Img2{
+      margin-top: 7vw;
+    }
+    .author span{
+      font-size: 5vw;
+    }
+    .author p{
+      font-size: 4vw;
+    }
+  }
+
+
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+    .line h1{
+      font-size: 3.5vw;
+    }
+    .lineh1 {
+      display: none;
+    }
+    .logo img{
+      width: 12%;
+      height: 12%;
+}
+#header{
+  width: 100%;
+  height: fit-content;
+}
+.logo button{
+  font-size: 2.5vw;
+}
+.headerTitle h1{
+  font-size: 30vw;
+  letter-spacing: 0px;
+  padding-top: 18vw;
+}
+.para{
+  width: 90%;
+  height: 0;
+  padding: 1px;
+}
+.para p{
+  font-size: 4vw;
+}
+.headerImg {
+  width: 100%;
+  height: 70%;
+}
+.img img{
+  width: 100%;
+  margin-top: 70vw;
+}
+.aboutLeft h1{
+  font-size: 14vw;
+  margin-left: 1vw;
+}
+.aboutright p{
+  font-size: 2vw;
+}
+.shopNowTitle{
+  margin-left: 3.5vw;
+  margin-top: 6vw;
+}
+.shopNowTitle p, .shopNowTitle2 p{
+  font-size: 2vw;
+}
+.shopNowBtn h3{
+  font-size: 2vw;
+}
+.lilPudgy p{
+  width: 70%;
+  font-size: 2.5vw;
+}
+.card2 h6{
+  font-size: 2vw;
+}
+.btn2 button{
+  padding: 2vw;
+  font-size: 2.5vw;
+}
+.card1{
+  width: 34%;
+}
+.joinNowcarddiv1 p, .joinNowcarddiv2 p{
+  font-size: 2vw;
+}
+.joinNowCardBtn h3{
+  font-size: 2vw;
+}
+.JoinNowCard2div1 p{
+  font-size: 2vw;
+}
+.JoinNowCard2Btn button{
+  width: 100%;
+  padding: 2vw;
+  font-size: 2.5vw;
+}
+.swiperSect2Img1 p{
+font-size: 2vw;
+padding: 2vw;
+}
+.author p{
+font-size: 2vw;
+}
+.author span{
+  font-size: 2.5vw;
+}
+  }
